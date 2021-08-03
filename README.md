@@ -8,7 +8,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
--  **Working :**  Fullstack PHP | ReactJS Developer :computer: 
+-  **Working :**  Fullstack Developer (PHP | ReactJS ) :computer: 
 -  **Learning :** Advanced Frontend Technologies :zap:	
 -  **Knowledge :** **PHP** | **Javascript** | **ReactJS** | **NextJS** | **NodeJS** | **CSS** | **SASS** | **LESS**
 -  **Hobbies :** Crochet :curly_loop: | Games :space_invader: | Gym :muscle:
