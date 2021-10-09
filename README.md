@@ -10,7 +10,7 @@
 ### 🤔 About
 -  **Working :**  Fullstack Developer (**PHP** | **ReactJS** | **React Native**) :computer: 
 -  **Learning :** Advanced Frontend Technologies :zap:	
--  **Knowledge :** **PHP** | **Javascript** | **ReactJS** | **NextJS** | **NodeJS** | **CSS** | **SASS** | **LESS**
+-  **Knowledge :** **PHP** | **Javascript** | **ReactJS** | **NextJS** | **React Native** | **NodeJS** | **CSS** | **SASS** | **LESS**
 -  **Hobbies :** Crochet :curly_loop: | Games :space_invader: | Gym :muscle:
 -  **Ask me about :** Anything! I'm happy to help :v:
 -  **Fun fact :** I love learn new things outside my reality-bubble :stuck_out_tongue:
